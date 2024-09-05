@@ -1,0 +1,28 @@
+.C-slide{
+    width: 79vh;
+    height: 85vh;
+    overflow-y: auto;
+    border-radius: 1pc;
+    padding-top: 5px;
+    border-right: solid rgb(138, 135, 135) 2px;
+}
+.C-Searchbox{
+    width: 100%;
+    width: 77vh;
+    overflow-y: auto;
+    background-color: aliceblue;
+    margin-left: 8px;
+    text-align: center;
+    border-radius: 5px;
+    padding-top: 10px;
+}
+#Ci-button{
+    width: 66vh;
+    height: 50px;
+    border: 0cqw;
+    margin-right: 10px;
+}
+#C-button{
+    height: 50px;
+    background-color: aquamarine;
+}

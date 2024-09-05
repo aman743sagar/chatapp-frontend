@@ -1,0 +1,6 @@
+.C-messagesd{
+    height: 60vh;
+    width: 80vh;
+    overflow-y: scroll;
+  /* background-color: yellow; */
+}

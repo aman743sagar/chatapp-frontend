@@ -1,0 +1,37 @@
+.MC-parents{
+    height: 90px;
+    width: 76vh;
+    margin-top: 20px;
+    margin-left: 10px;
+    border-radius: 0.2pc;
+    margin-bottom: -20px;
+    border-bottom: solid rgb(210, 206, 206) 2px;
+}
+.avter{
+    display: flex;
+    justify-content: left;
+}
+#C-mage{
+    height: 10vh;
+    width: 10vh;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-top: 7px;
+   
+}
+#C-image{
+    height: 10vh;
+    width: 10vh;
+    border-radius: 50%;
+}
+#C-user{
+    height: 10vh;
+    width:10vh ;
+    margin-left: 15px;
+    padding-top: 25px;
+}
+#C-user p{
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(58, 57, 57);
+}

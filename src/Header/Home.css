@@ -1,0 +1,85 @@
+.C-pare{
+    background-color:#00246B;
+    height: 100vh;
+    width: 227.2vh;
+    display: flex;
+    justify-content: center;
+}
+
+.C-parents{
+    margin-top: 35px;
+    margin-bottom: 30px;
+    height: 90vh;
+    width: 72vh;
+    border-radius: 3pc;
+    background-color:#CADCFC;
+    text-align: center;
+}
+.C-heading{
+    margin-top: 20px;
+    /* background-color: aliceblue; */
+    height: 50px;
+    
+}
+.C-heading h1{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #00246B;
+    font-weight: inherit;
+    padding-top: 10px;
+}
+.C-image{
+    display: flex;
+    justify-content: center;
+}
+#C-image{
+    height: 45vh;
+    width: 45vh;
+   
+}
+.C-boutton{
+    /* background-color: aquamarine; */
+    height: 20vh;
+    
+}
+.C-singup{
+    background-color: #618ee9;
+    margin-top: 10px;
+    height: 5pc;
+    width: 21pc;
+    margin-left:97px ;
+    margin-right: 55px;
+    border-radius: 2pc;
+    font-size: 35px;
+    color: #CADCFC;
+    padding-top: 8px;
+    padding-bottom: 15px;
+    text-align: center;
+    font: 500;
+    font-weight: 700;
+
+}
+#C-or{
+    color: #00246B;
+    font-size: 20px;
+}
+
+
+.message-slide{
+    height: 85vh;
+    width: 160vh;
+    background-color: azure;
+    margin-top: 50px;
+    border-radius: 1pc;
+    
+    
+}
+.serach-c-box{
+    /* background-color: red; */
+    display: flex;
+    justify-content: space-between;
+}
+
+#L-button{
+    margin-top: 5px;
+}
